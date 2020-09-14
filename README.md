@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
  <p> 
  <h2 class="unchanged rich-diff-level-one">Github Profile Summary ‰</h2>
