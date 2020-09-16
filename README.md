@@ -7,9 +7,9 @@
 
 <p>
  
- <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=onurcanyilmaz&amp;show_icons=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=onurcanyilmaz&amp;show_icons=true&count_private=true"
+ <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=onurcanyilmaz&count_private=true&include_all_commits=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=onurcanyilmaz&count_private=true&include_all_commits=true&theme=tokyonight"
     alt="Onurcan Yilmaz's GitHub Stats"
-    data-canonical-src="https://github-readme-stats.vercel.app/api?username=onurcanyilmaz&amp;show_icons=true&count_private=true"
+    data-canonical-src="https://github-readme-stats.vercel.app/api?username=onurcanyilmaz&count_private=true&include_all_commits=true&theme=tokyonight"
     style="max-width:100%;">
 
 
